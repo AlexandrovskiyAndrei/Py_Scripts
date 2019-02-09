@@ -1,2 +1,1 @@
-# PyScripts
-# Py_Scripts
+# Python scripts
